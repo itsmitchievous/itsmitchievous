@@ -99,10 +99,6 @@ Through my academic pursuits and extracurricular activities, I aim to cultivate 
 
 <br/>  
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=itsmitchievous&&style=flat-square)  
