@@ -1,5 +1,5 @@
-# ***<div align="center">Hey 👋, I'm Michelle Gallardo</div>***  
-  
+<a href='https://postimg.cc/Z9rNjhR8' target='_blank'><img src='https://i.postimg.cc/QMzq88Zy/1711937958664.png' border='0' alt='1711937958664'/></a>
+# ***<div align="center">Hello there! 👋</div>***  
 
 <a href="https://github.com/itsmitchievous" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -21,10 +21,8 @@
 </a>  
   
 
-
-
 ### WELCOME TO MY SAFE SPACE!  
-Hello there! I'm a passionate 2nd year Information Technology student at Centro Escolar University, driven by an insatiable curiosity for all things tech, especially in the world of backend development. With a fervent desire to unravel the complexities of software engineering, I'm on a relentless journey to master the craft of building robust, scalable, and efficient systems that power the digital world. 
+I'm a passionate 2nd year Information Technology student at Centro Escolar University, driven by an insatiable curiosity for all things tech, especially in the world of backend development. With a fervent desire to unravel the complexities of software engineering, I'm on a relentless journey to master the craft of building robust, scalable, and efficient systems that power the digital world. 
 
 Through my academic pursuits and extracurricular activities, I aim to cultivate a deep understanding of databases, data structures, algorithms, and software architecture principles. My GitHub journey is not just about committing code; it's about embarking on a transformative learning experience, embracing challenges, and collaborating with fellow developers to create impactful solutions.  
   
